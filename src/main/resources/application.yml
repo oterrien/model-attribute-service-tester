@@ -1,0 +1,7 @@
+logging:
+  level:
+    org.springframework: WARN
+    com.ote.test: TRACE
+
+server:
+  port: 8080
